@@ -1,6 +1,6 @@
 # Tutorial: Deep learning on MNIST
 
-_Author: [@8bitmp3](https://github.com/8bitmp3) (Published on [NumPy.org](https://numpy.org/numpy-tutorials/content/tutorial-deep-learning-on-mnist.html), Google's Season of Docs 2021 with NumPy)_
+_Author: [@8bitmp3](https://github.com/8bitmp3) (Published on [NumPy.org](https://numpy.org/numpy-tutorials/content/tutorial-deep-learning-on-mnist.html), Google's Season of Docs 2020 with NumPy)_
 
 This tutorial demonstrates how to build a simple [feedforward neural
 network](https://en.wikipedia.org/wiki/Feedforward_neural_network) (with one
